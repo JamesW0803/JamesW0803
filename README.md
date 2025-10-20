@@ -50,9 +50,3 @@ My expertise within these fields includes **Full-Stack Development** with the ME
 ### 🚀 What I'm Currently Working On
 
 I'm currently developing my Final Year Project, **PlanIT**, an adaptive academic planning advisor built with the MERN stack. The goal is to help students navigate course prerequisites and create optimal graduation paths using a fail-safe planning module and a GPA forecasting tool.
-
----
-
-### 🌱 My Expectations for This Course
-
-From this course, I expect to learn how to effectively maintain and improve existing software systems to ensure their long-term quality and reliability. I also hope to understand different types of software maintenance techniques and gain practical skills in developing and managing software systems.
